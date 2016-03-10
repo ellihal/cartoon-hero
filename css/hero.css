@@ -1,0 +1,73 @@
+html, body{
+	font-family: verdana; 
+	margin: 0;
+}
+
+header{
+	background-color: #800040;
+	padding: 80px 20px 10px 10px;
+	text-align: center; 
+}
+
+h1{
+	font-size: 60px;
+	color: #ffcce6;
+}
+
+header img{
+	border-radius: 200px;
+	width: 400px;
+	border: 10px double #ffcce6;
+
+}
+
+.content{
+	max-width: 900px;
+    margin: 0 auto;
+    padding: 5 20px;
+}
+
+img.big-image{
+	max-width: 100%;
+}
+
+p.caption{
+	font-size: 16px;
+	color: lightgrey;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	
+}
+
+a{
+	color: navy;
+	text-decoration: none;
+
+}
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #999999;
+
+
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
+
+/*<header>
+			<img src="img/profile.jpg">
+			<h1>Felonious Gru</h1>
+		</header>/*
